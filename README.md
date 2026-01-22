@@ -48,7 +48,3 @@ This project was completed as part of Data Science & Analytics Task 2 under the 
 
 ---
 
-## 📁 Project Structure
-- Facebook Ads Dataset (CSV)
-- Power BI Dashboard File
-- README file
